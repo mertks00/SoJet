@@ -1,0 +1,10 @@
+name: SoJet
+version: '${project.version}'
+main: me.oyuncozucu.sojet.SoJet
+authors: [ mertks00 ]
+description: Sonoyuncu Jet Plugin.
+website: youtube/oyuncozucu
+commands:
+  dasgfsgrs:
+  ilsadtasc:
+  reload:
